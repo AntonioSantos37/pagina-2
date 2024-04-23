@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lobster&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+body {
+    /* Definindo um gradiente linear */
+    background: linear-gradient(to bottom, #333333, #000000);
+    /* Definindo cor do texto */
+    color: #1E90FF;font-family: "Roboto Flex", sans-serif; /* Letras brancas */
+}/* Estilos para o cabeçalho */
+header {
+    background-color: #333; /* Cor de fundo do cabeçalho */
+    color: #1E90FF; /* Cor do texto no cabeçalho */
+    padding: 20px; /* Espaçamento interno do cabeçalho */
+}
+
+/* Estilos para o título do cabeçalho */
+header h1 {
+    margin: 0; /* Remove margem padrão */
+}
+
+/* Estilos para a barra de navegação */
+nav {
+    background-color: #444; /* Cor de fundo da navegação */
+    padding: 10px; /* Espaçamento interno da navegação */
+}
+
+/* Estilos para os links de navegação */
+nav ul {
+    list-style-type: none; /* Remove marcadores de lista */
+    padding: 0; /* Remove espaçamento interno */
+}
+
+nav ul li {
+    display: inline; /* Coloca os itens da lista na mesma linha */
+    margin-right: 20px; /* Espaçamento entre os itens da lista */
+}
+
+nav ul li a {
+    color: #1E90FF; /* Cor do texto dos links */
+    text-decoration: none; /* Remove sublinhado dos links */
+}
+
+nav ul li a:hover {
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse sobre os links */
+}
+
+/* Estilos para a seção principal */
+main {
+    padding: 20px; /* Espaçamento interno da seção principal */
+}
+
+/* Estilos para os títulos das seções */
+section h2 {
+    color: #1E90FF; /* Cor do texto dos títulos das seções */
+}
+
+/* Estilos para o texto das seções */
+section p {
+    color: #1E90FF; /* Cor do texto das seções */
+}
+img{position: fixed ;
+
+top: 50;
+right: 0;
+
+}
+.au1{background-color: #000000;}
